@@ -14,7 +14,7 @@ void fahrenheit_temp() {
     // Explaining my program to the user.
     std::cout << "Welcome to my program!";
     std::cout <<
-    " It will convert a temperature from celsius(as a decimal) to fahrenheit.\n";
+    "It will convert a temperature from celsius(as a decimal) to fahrenheit.\n";
 
         // Getting user input for temperature in celsius.
         std::cout
